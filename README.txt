@@ -1,9 +1,10 @@
 Hongyu Jin
 
-Highly motivated Data Scientist with expertise in:
-Data Management: Advanced proficiency in SQL for data retrieval and manipulation.
-Python Programming: Extensive experience with data analysis libraries like Pandas, NumPy, and Scikit-Learn for data manipulation, cleaning, and feature engineering.
-Machine Learning & Deep Learning: Proven ability to develop and implement various machine learning models (XGBoost, Random Forest, Logistic Regression, Clustering) and deep learning architectures (PyTorch, Keras) with applications in image classification, natural language processing, and classification using deep neural networks.
+Experienced Data Professional with expertise in:
+Data Management: Proficiency in SQL for data retrieval and manipulation.
+Python Programming: Experience with data analysis packages (Pandas, NumPy, and Scikit-Learn) for data manipulation, cleaning, and feature engineering.
+Machine Learning: Develop and implement various machine learning models (XGBoost, Random Forest, Logistic Regression, Clustering)
+Deep Learning: Experience with PyTorch, Keras, and applications in image classification, natural language processing, and classification using deep neural networks.
 Data Communication & Visualization: Skilled in utilizing Microsoft Office Suite (Excel, PowerPoint, Word) to effectively communicate data insights and project results.
 
 Detail-oriented and resourceful with a strong ability to identify significant patterns and trends within large datasets.
